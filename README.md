@@ -25,10 +25,6 @@
     <img src="https://img.shields.io/badge/🌐_Live_Demo-22d3ee?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Demo"/>
   </a>
   
-  <a href="https://github.com/yourusername/otp-verification" target="_blank">
-    <img src="https://img.shields.io/badge/📂_Source_Code-7c5cff?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
-  </a>
-  
   <br><br>
   
   <img src="https://img.shields.io/badge/Status-Online-2ee6a8?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status"/>
